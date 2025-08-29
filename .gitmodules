@@ -1,3 +1,6 @@
 [submodule "playvision_data"]
 	path = playvision_data
 	url = https://github.com/mz0g/playvision_data
+[submodule "playvision_ppi"]
+	path = playvision_ppi
+	url = https://github.com/mz0g/playvision_ppi
