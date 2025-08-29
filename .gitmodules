@@ -1,0 +1,3 @@
+[submodule "playvision_data"]
+	path = playvision_data
+	url = https://github.com/mz0g/playvision_data
