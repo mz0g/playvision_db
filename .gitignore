@@ -2,3 +2,4 @@
 *.png
 *._DS_Store
 /pycache/
+*.env
